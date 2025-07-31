@@ -1,0 +1,15 @@
+# Large raw data files (over 100MB)
+commits.json
+contributors.json
+pull_requests.json
+issues.json
+punch_card.json
+
+# OS-specific files
+.DS_Store
+
+# Jupyter junk
+.ipynb_checkpoints/
+
+# Optional: Jupyter Notebooks if not needed in repo
+*.ipynb
